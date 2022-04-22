@@ -1,0 +1,24 @@
+
+.kleur {
+  background-color: mediumpurple;
+  word-spacing: 400px;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  background-color: mediumpurple;
+  word-spacing: 400px;
+  list-style-type: none;
+}
+
+h1{
+  margin-left: 100px;
+  margin-right: 300px;
+}
+p{
+  margin-right: 100px;
+  margin-right: 300px;
+}
+
+

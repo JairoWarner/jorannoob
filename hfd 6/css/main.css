@@ -1,0 +1,25 @@
+.container{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #F0F0F0
+}
+.bob{
+  width: 250px;
+  height: 30px;
+}
+.bob2{
+  width: 250px;
+  height: 30px;
+}
+.bob3{
+  width: 250px;
+  height: 30px;
+}
+.henk{
+
+}
+.container twee{
+  width: 4px;
+  height: auto;
+}
+

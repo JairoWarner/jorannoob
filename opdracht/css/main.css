@@ -1,0 +1,28 @@
+body{
+}
+ul{
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
+li{
+  list-style-type: none;
+}
+a{
+  color: white;
+  transition: color 200ms;
+  text-decoration: none;
+  font-size: 32px;
+}
+a:hover{
+  color: black;
+  transition: color 200ms;
+}
+.artikel{
+  width: 250px;
+  display: inline;
+}
+div{
+    justify-content: space-between;
+    display: flex;
+}

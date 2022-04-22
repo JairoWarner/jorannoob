@@ -1,0 +1,67 @@
+.dropbtn {
+  background-color: transparent;
+  color: #000000;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+
+  display: inline-block;
+  float: right;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+
+}
+.dropdown-content a {
+  color: #000000;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: rgb(221, 221, 221);}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: rgba(255, 255, 255, 0);}
+
+.container1 {
+  line-height: 10px;
+
+}
+
+.topnav{
+  background-color: rgba(148, 176, 185, 0.25);
+  height: 75px;
+  word-spacing: 45px;
+
+}
+.aa{
+  position: fixed;
+  top: 27px;
+  left: 30px;
+}
+body{
+  margin: 0;
+  background-image: url('https://www.aukeverbeek.nl/wp-content/uploads/2013/05/pinsdaddy-website-backgrounds-1-zellox.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a{
+  color: black;
+}
+a:link{
+  text-decoration: none;
+}
+
+.vierstroom{
+  position: fixed;
+  left: 60px;
+  top: 130px;
+  height: 250px;
+  width: auto;
+}
